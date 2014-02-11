@@ -14,7 +14,7 @@ Please don't forget that we are real people: take a look at our company page to 
 
 When you read "The Changelog" or "we" as mentioned in this document, it refers to changelog.com (contact information), its affiliates and agents.
 
-Should you have other questions or concerns about this document, please get in touch using the email support@changelog.com.
+Should you have other questions or concerns about this document, please get in touch [using our contact form](http://thechangelog.com/contact/) or [by submitting an issue on GitHub](https://github.com/thechangelog/legal/issues/new).
 
 ### Using The Changelog means accepting these terms
 
@@ -24,9 +24,9 @@ If you do not agree to all of the terms and conditions contained in this documen
 
 ## This is a living document
 
-This is a living document. With your help, we want to make it the best in the industry.
+This is a living document and is [open source on GitHub](https://github.com/thechangelog/legal/blob/master/terms.md).
 
-If you read something that rubs you the wrong way, or if you think of something that should be added, please get in touch. Email us at support@changelog.com.
+If you read something that rubs you the wrong way, or if you think of something that should be added, please [submit an issue](https://github.com/thechangelog/legal/issues/new) or [contact us](http://thechangelog.com/contact/).
 
 We don't amend this document for any particular subscriber, but if your changes apply to all of our subscriber, we'll be happy to update it for everyone.
 
@@ -44,7 +44,7 @@ If you think we removed your access by mistake, get in touch and we'll give you 
 
 ## Support
 
-Support for The Changelog is provided by emailing support@changelog.com.
+Support for The Changelog is provided by [using our contact form](http://thechangelog.com/contact/).
 
 ## Access to your data
 
@@ -102,7 +102,7 @@ All of our servers are highly physically secured at DigitalOcean's data centers.
 
 ### What should I do if I find a security vulnerability in The Changelog?
 
-If you have discovered a security concern, please email us immediately at support@changelog.com. We'll work with you to make sure that we understand the scope of the issue, and that we fully address your concern. We consider correspondence sent to support@changelog.com our highest priority, and work to address any issues that arise as quickly as possible.
+If you have discovered a security concern, please contact us immediately [using our contact form](http://thechangelog.com/contact/). We'll work with you to make sure that we understand the scope of the issue, and that we fully address your concern. We consider correspondence sent through our contact form the highest priority, and work to address any issues that arise as quickly as possible.
 
 Please act in good faith towards our users' privacy and data during your disclosure. We won't take legal action against you or administrative action against your account if you act accordingly: White hat researchers are always appreciated.
 
