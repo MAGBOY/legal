@@ -6,19 +6,19 @@ Please read this document carefully before accessing or using The Changelog.
 
 ### English, not Legalese.
 
-Most Terms of Service and Privacy Policy documents are unreadable. They are written by lawyers and for lawyers, and in our opinion are not very effective.
+Most Terms of Service and Privacy Policy documents are unreadable. They are written by and for lawyers, and in our opinion are not very effective.
 
 Because we believe in establishing long-term relationships with our readers and listeners, we decided to use plain English instead, to make our terms as clear as possible.
 
-Please don't forget that we are real people: take a look at our company page to get to know us a little. We are not perfect, but we're trying our hardest, because we genuinely care about your success.
+Please don't forget that we are real people: take a look at our company page to get to know us a little. We're not perfect, but we're trying, and we genuinely care about you.
 
-When you read The Changelog or we below, it refers to changelog.com (contact information), its affiliates and agents.
+When you read "The Changelog" or "we" as mentioned in this document, it refers to changelog.com (contact information), its affiliates and agents.
 
-Should you have other questions or concerns about this document, please send us an e-mail at support@changelog.com.
+Should you have other questions or concerns about this document, please get in touch using the email support@changelog.com.
 
-Using The Changelog means accepting these terms
+### Using The Changelog means accepting these terms
 
-By accessing or using The Changelog in any way, whether you have created your own The Changelog account or are invited to someone else's team as a member, or are just browsing around, you agree to and are bound by the terms and conditions written in this document.
+By accessing, using, reading, or listening to The Changelog in any way, you agree to and are bound by the terms and conditions written in this document.
 
 If you do not agree to all of the terms and conditions contained in this document, do not access The Changelog.
 
@@ -26,11 +26,11 @@ If you do not agree to all of the terms and conditions contained in this documen
 
 This is a living document. With your help, we want to make it the best in the industry.
 
-If you read something that rubs you the wrong way, or if you think of something that should be added, please get in touch! We're all ears! Email support@changelog.com and we'll chat.
+If you read something that rubs you the wrong way, or if you think of something that should be added, please get in touch. Email us at support@changelog.com.
 
-We don't amend this document for any particular customer, but if your changes apply to all of our customers, we'll be happy to update it for everyone.
+We don't amend this document for any particular subscriber, but if your changes apply to all of our subscriber, we'll be happy to update it for everyone.
 
-We will likely improve this document over time. By continuing to use the site, you will implicitely accept the changes we make.
+We will likely improve this document over time. By continuing to use the site, you will implicitly accept the changes we make.
 
 Your access and use of The Changelog is always subject to the most current version of this document.
 
@@ -40,41 +40,32 @@ If you breach any of the terms and conditions in this document, your authorizati
 
 We may block, restrict, disable, suspend or terminate your access to all or part of The Changelog at any time in our sole discretion, without prior notice or liability to you. To this day, we have never had to do this, and we hope it never happens.
 
-If you think we removed your access by mistake, get in touch and we'll give you our reasoning. We also have a quick way to restore access without losing any of your data.
-
----
+If you think we removed your access by mistake, get in touch and we'll give you our reasoning. We also have the ability to restore access without losing any data.
 
 ## Support
 
-Support for The Changelog is provided via our Community Forums.
-
-Email support is not explicitly provided, as it is typically reserved for customers with a support contract. However, you can feel free to send us an email and we may respond. But we may just direct you to the forums. Support contracts are available, please contact us for more information.
-
----
+Support for The Changelog is provided by emailing support@changelog.com.
 
 ## Access to your data
 
-### What personal data do you collect and why?
+### What personal data do we collect and why?
 
 We collect the following personal data:
 
-Name
+- Name
+- Email address
 
-E-mail address
+We do not collect your address or credit card information directly. See the question "Who can see my credit card number?" below.
 
-Company Name
+We use return email addresses to answer the email we receive. Such addresses are not used for any other purpose and are not shared with outside parties.
 
-We do not collect Address or Credit Card information directly. See Who can see my credit card number? below.
-
-We use return e-mail addresses to answer the e-mail we receive. Such addresses are not used for any other purpose and are not shared with outside parties.
-
-Please be aware that your browser must be enabled to accept cookies from loomsdk.com in order for you to use The Changelog.
+Please be aware that your browser must be enabled to accept cookies from changelog.com in order for you to use The Changelog.
 
 Finally, we never use or share the personally identifiable information provided to us online in ways unrelated to the ones described above.
 
 ### Who can see my password?
 
-No-one. We never store your password unencrypted, so no-one can read it.
+No one. We never store your password unencrypted, so no one can read it.
 
 It is your sole responsibility to keep your user name, password and other sensitive information confidential. If you become aware of any unauthorized use of your account or any other breach of security, you shall notify The Changelog immediately.
 
@@ -82,43 +73,28 @@ If you forget your password, we send you a secure link via email that lets you r
 
 ### Who can see my credit card number?
 
-No-one at The Changelog. We use the very trustworthy and secure Stripe payment service. Read about their security measures on the Stripe Terms of Service (in short, they encrypt your credit card info).
+No one at The Changelog. We use the very trustworthy and secure Stripe payment service. Read [Stripe's Terms of Service](https://stripe.com/us/terms) to learn more about their security measures. In short, they encrypt your credit card information.
 
-### Our Commitment to Children’s Privacy
+### Our commitment to children's privacy
 
 Protecting the privacy of the very young is especially important. For that reason, we never collect or maintain information at our website from those we actually know are under 13, and no part of our website is structured to attract anyone under 13.
 
 ### How can I access or correct my information?
 
-You can access all your personally identifiable information that we collect online and maintain by logging in to any The Changelog site you have access to and visiting the settings pages.
-
-### Who can see my apps and projects?
-
-It depends on the project access level you choose for your projects. By default, each project is private, but the site owner or any staff member who's part of that project can make it public.
-
-For private projects: the only people who can see your mobile applications and content are staff members invited to the project, project members, your site owner and some The Changelog employees (for the purpose of maintaining the service).
-
-If you send an image permalink or a prototype view link to someone, they will be able to access that image or prototype view, even without logging in. The link is intentionally very long and hard to guess.
-
-For website, blog and wiki projects: anyone with a link to your site can see your apps and projects. Your public projects will also be indexed by search engines.
+You can access all your personally identifiable information that we collect online and maintain by logging in to The Changelog site you have access to and visiting the settings pages.
 
 ### What are the guidelines The Changelog follows when accessing my data?
 
-We restrict who at The Changelog can access customer data to only senior members of the team, and never to outside contractors
-
-We only do it in response to a customer support question.
-
-We only do it in order to debug and fix the issue.
-
-We never make changes to anything unless explicitly requested by a site owner.
-
-We never ever ever share what we see with other customers or the general public.
-
-We might give access to US authorities if requested in writing. We'll try not to, but we don't have the resources to fight the government. We'll also keep your site owner informed as much as we can if this happens.
+- We restrict access to customer data to only senior members of The Changelog, and never to outside contractors
+- We only do it in response to a customer support question
+- We only do it in order to debug and fix the issue
+- We never make changes to anything unless explicitly requested by a site owner
+- We never ever ever share what we see with other customers or the general public
+- We might give access to US authorities if requested in writing. We'll try not to, but we don't have the resources to fight the government.
 
 ### How is my data protected from another customer's data?
 
-All of our customers' data resides in the same database. We use software best practices to guarantee that only people who you designate as viewers of your data can access it. In other words, we segment our customer data via software. We do our best and are very confident we're doing a good job at it, but, like every other web app that hosts their customers data on the same database, cannot guarantee that a sophisticated hacker cannot access other people's data.
+All of our customers' data resides in the same database. We use software best practices to guarantee only people who you designate as viewers of your data can access it. In other words, we segment our customer data via software. We do our best and are very confident we're doing a good job at it, but, like every other web software that hosts customer data in the same database, we cannot guarantee a highly sophisticated hacker cannot access other people's data.
 
 ### How are you protecting my data from hacker attacks?
 
@@ -126,9 +102,9 @@ All of our servers are highly physically secured at DigitalOcean's data centers.
 
 ### What should I do if I find a security vulnerability in The Changelog?
 
-If you have discovered a security concern, please email us at support@changelog.com. We’ll work with you to make sure that we understand the scope of the issue, and that we fully address your concern. We consider correspondence sent to support@changelog.com our highest priority, and work to address any issues that arise as quickly as possible.
+If you have discovered a security concern, please email us immediately at support@changelog.com. We'll work with you to make sure that we understand the scope of the issue, and that we fully address your concern. We consider correspondence sent to support@changelog.com our highest priority, and work to address any issues that arise as quickly as possible.
 
-Please act in good faith towards our users’ privacy and data during your disclosure. We won’t take legal action against you or administrative action against your account if you act accordingly: White hat researchers are always appreciated.
+Please act in good faith towards our users' privacy and data during your disclosure. We won't take legal action against you or administrative action against your account if you act accordingly: White hat researchers are always appreciated.
 
 ## Intellectual Property Rights
 
@@ -160,27 +136,13 @@ The rights granted to you constitute a license and not a transfer of title.
 
 Any The Changelog materials made available only upon payment of a fee may only be viewed, downloaded and printed subject to your payment of such fee.
 
-### Who owns the IP of my apps and assets?
-
-The Changelog does not claim intellectual property rights over apps created on The Changelog.
-
-We leave it to each The Changelog site owner to decide who should own the IP of the apps created using their The Changelog site. We encourage site owners to make their policy clear to their site users, either via email or by posting it on their The Changelog site
-
-You acknowledge and agree that The Changelog has no liability of any kind should anyone you granted access to your content modify, destroy, corrupt, copy or distribute it, or violate the terms of use or other limitations that you may impose on the use of your shared content.
-
-The Changelog does not pre-screen user materials that users provide or otherwise submit via The Changelog; however, The Changelog may remove any posted or submitted user materials from The Changelog for any reason without notice in its sole discretion. By posting or submitting your user materials, you represent and warrant that you own or otherwise control all of the intellectual property rights and other rights to your user materials as described in these Terms of Use, including all the rights necessary for you to post or submit your user materials.
-
-In addition, by posting or otherwise submitting your user materials that contain images, photographs, pictures, videos, webcasts or that are otherwise graphical in whole or in part (“Images”), you represent and warrant that: (a) you own the copyright in such Images, or that you have obtained all necessary license(s) from the copyright owner(s) of such Images to use such Images, or portions thereof, in keeping with your use in connection with The Changelog and as otherwise permitted by these Terms of Use; (b) you have the rights necessary to grant the licenses and sub-licenses described in these Terms of Use; and (c) you have received consent from any and all persons depicted in such Images to use the Images as set forth in these Terms of Use, including the distribution, public display, public performance and reproduction of such Images.
-
-You are solely and entirely responsible for all of your user materials that you post or otherwise submit via The Changelog. You shall assume all risks associated with the use of your user materials including any reliance on the accuracy, completeness or usefulness of your user materials. The Changelog does not guarantee the accuracy, integrity or quality of your user materials. You acknowledge and agree that by accessing or using The Changelog, you may be exposed to user materials from others that are offensive, indecent or otherwise objectionable.
-
 ## Reliability
 
 ### Do you guarantee that The Changelog will be accessible at all times?
 
 In short, we do not. Like all other cloud-based applications, we are vulnerable to the inherent unreliability of the Internet.
 
-We monitor The Changelog closely and have set up automated alarms to be notified (via email and SMS) when The Changelog service is under stress, so that we can deal with the issue before it becomes a problem that might impact customer access.
+We monitor The Changelog closely and have set up automated alerts to be notified when The Changelog service is under stress, so that we can deal with the issue before it becomes a problem that might impact customer access.
 
 You acknowledge and agree that The Changelog shall not be liable for any failure to store your materials on The Changelog at any time.
 
@@ -190,66 +152,48 @@ You acknowledge and agree that The Changelog shall not be liable for any failure
 
 You agree that you shall not:
 
-Collect, harvest or engage in any other activity to obtain e-mail addresses, phone numbers, personal information or any other information about others.
-
-Use or attempt to gain access to or use another’s user or company account, password, data, or computer systems or networks connected to any The Changelog server, whether through hacking, password mining or any other means.
-
-Access or attempt to access any material that you are not authorized to access.
-
-Make available any files containing materials where you do not own or control, or have not received the necessary licenses to, all intellectual property rights, rights of privacy and publicity and all other rights in and to such materials.
-
-Use any materials in any manner that infringes any intellectual property rights or other rights of any party.
-
-Disrupt or interfere with the security of, or otherwise cause harm to, The Changelog service, The Changelog materials, systems resources, accounts, passwords, servers or networks connected to or accessible through The Changelog or any affiliated or linked sites.
-
-Transmit unsolicited or bulk communications to any The Changelog account holder or to any loomsdk.com or affiliated e-mail address.
-
-Post or otherwise submit any software, programs or files that are harmful or disruptive of another’s equipment, software or other property, including any corrupted files, time bombs, Trojan horses, viruses and worms.
-
-Create a false identity for the purpose of misleading others.
-
-Download any materials posted by another that you know, or reasonably should know, cannot be legally reproduced, distributed, performed or displayed in such manner.
-
-Disrupt, interfere or inhibit any other user from using and enjoying The Changelog service or other affiliated or linked sites, materials or services.
-
-Access or use The Changelog in any manner that could damage, disable, overburden or impair any The Changelog server or the network(s) connected to any The Changelog server.
-
-Violate any applicable laws or regulations related to the access to or use of The Changelog, or engage in any activity prohibited by the Terms of Use.
-
-Post or otherwise submit any topic, name, material or information that is child pornography, defamatory, excessively violent, harassing, inappropriate, indecent, lascivious, lewd, obscene, profane, racist, unlawful, or otherwise objectionable.
-
-Prepare, compile, use, download or otherwise copy any The Changelog user directory or other user or usage information or any portion thereof, or transmit, provide or otherwise distribute (whether or not for a fee) such directory or information to any third party.
-
-Engage in any chain letters, contests, junk e-mail, pyramid schemes, spamming, surveys or any other duplicative or unsolicited messages (commercial or otherwise).
-
-Violate the rights of The Changelog or any third party (including rights of privacy and publicity) or abuse, defame, harass, stalk or threaten another.
-
-Use any The Changelog or The Changelog domain name as a pseudonymous return e-mail address.
-
-Market any goods or services for any business purpose (including advertising and making offers to buy or sell goods or services), unless specifically allowed to do so by The Changelog.
+- Collect, harvest or engage in any other activity to obtain email addresses, phone numbers, personal information or any other information about others.
+- Use or attempt to gain access to or use another's user or company account, password, data, or computer systems or networks connected to any The Changelog server, whether through hacking, password mining or any other means.
+- Access or attempt to access any material that you are not authorized to access.
+- Make available any files containing materials where you do not own or control, or have not received the necessary licenses to, all intellectual property rights, rights of privacy and publicity and all other rights in and to such materials.
+- Use any materials in any manner that infringes any intellectual property rights or other rights of any party.
+- Disrupt or interfere with the security of, or otherwise cause harm to, The Changelog service, The Changelog materials, systems resources, accounts, passwords, servers or networks connected to or accessible through The Changelog or any affiliated or linked sites.
+- Transmit unsolicited or bulk communications to any The Changelog account holder or to any loomsdk.com or affiliated email address.
+- Post or otherwise submit any software, programs or files that are harmful or disruptive of another's equipment, software or other property, including any corrupted files, time bombs, Trojan horses, viruses and worms.
+- Create a false identity for the purpose of misleading others.
+- Download any materials posted by another that you know, or reasonably should know, cannot be legally reproduced, distributed, performed or displayed in such manner.
+- Disrupt, interfere or inhibit any other user from using and enjoying The Changelog service or other affiliated or linked sites, materials or services.
+- Access or use The Changelog in any manner that could damage, disable, overburden or impair any The Changelog server or the network(s) connected to any The Changelog server.
+- Violate any applicable laws or regulations related to the access to or use of The Changelog, or engage in any activity prohibited by the Terms of Use.
+- Post or otherwise submit any topic, name, material or information that is child pornography, defamatory, excessively violent, harassing, inappropriate, indecent, lascivious, lewd, obscene, profane, racist, unlawful, or otherwise objectionable.
+- Prepare, compile, use, download or otherwise copy any The Changelog user directory or other user or usage information or any portion thereof, or transmit, provide or otherwise distribute (whether or not for a fee) such directory or information to any third party.
+- Engage in any chain letters, contests, junk email, pyramid schemes, spamming, surveys or any other duplicative or unsolicited messages (commercial or otherwise).
+- Violate the rights of The Changelog or any third party (including rights of privacy and publicity) or abuse, defame, harass, stalk or threaten another.
+- Use any The Changelog or The Changelog domain name as a pseudonymous return email address.
+- Market any goods or services for any business purpose (including advertising and making offers to buy or sell goods or services), unless specifically allowed to do so by The Changelog.
 
 Materials and Services provided by third parties are governed by separate agreements accompanying such materials and services. The Changelog offers no guarantees and assumes no responsibility or liability of any type with respect to the third-party services, including any liability resulting from incompatibility between a third-party service, The Changelog materials, The Changelog service or another third-party service. You agree that you will not hold The Changelog responsible or liable with respect to the third-party services.
 
 ### Special Treatment for Spammers
 
-In the event of your or others’ access to or use of The Changelog service in connection with the transmission of spam unsolicited e-mail or postings in violation of these Terms of Use, you acknowledge and agree that The Changelog would be irreparably harmed thereunder and that monetary damages would be an insufficient and ineffective remedy; therefore you agree that The Changelog is entitled to obtain immediate injunctive relief against any such transmission (in addition to all other remedies available at law or in equity). The Changelog may without restriction block, filter or delete unsolicited e-mail.
+In the event of your or others' access to or use of The Changelog service in connection with the transmission of spam unsolicited email or postings in violation of these Terms of Use, you acknowledge and agree that The Changelog would be irreparably harmed thereunder and that monetary damages would be an insufficient and ineffective remedy; therefore you agree that The Changelog is entitled to obtain immediate injunctive relief against any such transmission (in addition to all other remedies available at law or in equity). The Changelog may without restriction block, filter or delete unsolicited email.
 
 ### Restriction and Termination of Use
 
-The Changelog may block, restrict, disable, suspend or terminate your access to all or part of The Changelog at any time in The Changelog’s sole discretion, without prior notice or liability to you.
+The Changelog may block, restrict, disable, suspend or terminate your access to all or part of The Changelog at any time in The Changelog's sole discretion, without prior notice or liability to you.
 
 ### Notification of Copyright Infringement
 
-The Changelog will, in appropriate circumstances, terminate the accounts of users who infringe the intellectual property rights of others. The Changelog will investigate notices of copyright infringement and take appropriate actions under the Digital Millennium Copyright Act, Title 17, United States Code, Section 512(c)(2) (“DMCA”).
+The Changelog will, in appropriate circumstances, terminate the accounts of users who infringe the intellectual property rights of others. The Changelog will investigate notices of copyright infringement and take appropriate actions under the Digital Millennium Copyright Act, Title 17, United States Code, Section 512(c)(2) ("DMCA").
 
 If you believe that your work has been used or copied in a way that constitutes copyright infringement and such infringement is occurring on The Changelog or on sites linked to from The Changelog, please provide written notification of claimed copyright infringement to the designated agent for The Changelog (identified below), which must contain the following elements:
 
 - A physical or electronic signature of the person authorized to act on behalf of the owner of the copyright interest that is alleged to have been infringed;
 - A description of the copyrighted work or works that you claim have been infringed and identification of what content in such work(s) is claimed to be infringing and which you request to be removed or access to which is to be disabled;
 - A description of where the content that you claim is infringing is located on The Changelog;
-- Information sufficient to permit The Changelog to contact you, such as your physical address, telephone number, and e-mail address;
-- A statement by you that you have a good faith belief that the use of the content identified in your Notice in the manner complained of is not authorized by the copyright owner, its agent, okr the law;
-- A statement by you that the information in your notice is accurate and, under penalty of perjury, that you are the copyright owner or authorized to act on the copyright owner’s behalf.
+- Information sufficient to permit The Changelog to contact you, such as your physical address, telephone number, and email address;
+- A statement by you that you have a good faith belief that the use of the content identified in your Notice in the manner complained of is not authorized by the copyright owner, its agent, ok the law;
+- A statement by you that the information in your notice is accurate and, under penalty of perjury, that you are the copyright owner or authorized to act on the copyright owner's behalf.
 
 ### Links to Third Party Sites
 
@@ -261,7 +205,7 @@ The Changelog may run advertisements and promotions from third parties via The C
 
 ### Warranties and Disclaimers
 
-The The Changelog service and The Changelog materials are provided by The Changelog under these terms of use “as is” without warranty of any kind, either express, implied, statutory or otherwise, including, but not limited to, the implied warranties of title, non-infringement, merchantability or fitness for a particular purpose. Without limiting the foregoing, The Changelog makes no warranty that
+The Changelog service and The Changelog materials are provided by The Changelog under these terms of use "as is" without warranty of any kind, either express, implied, statutory or otherwise, including, but not limited to, the implied warranties of title, non-infringement, merchantability or fitness for a particular purpose. Without limiting the foregoing, The Changelog makes no warranty that:
 
 1. The Changelog service and The Changelog materials will meet your requirements;
 2. The Changelog service and The Changelog materials will be uninterrupted, timely, secure, or error-free;
@@ -269,7 +213,7 @@ The The Changelog service and The Changelog materials are provided by The Change
 4. the quality of the site or any services or materials purchased or accessible by you will meet your expectations; and
 5. any errors or defects in The Changelog service and The Changelog materials will be corrected.
 
-This The Changelog service and The Changelog materials may include technical or other mistakes, inaccuracies, or typographical errors. The Changelog may make changes to the site, materials and services, including the prices and descriptions of any software or products listed, at any time in its sole discretion and without notice. The The Changelog service and The Changelog materials may be out of date, and The Changelog makes no commitment to update the site, materials and services.
+This The Changelog service and The Changelog materials may include technical or other mistakes, inaccuracies, or typographical errors. The Changelog may make changes to the site, materials and services, including the prices and descriptions of any software or products listed, at any time in its sole discretion and without notice. The Changelog service and The Changelog materials may be out of date, and The Changelog makes no commitment to update the site, materials and services.
 
 You acknowledge and agree that:
 
@@ -286,27 +230,27 @@ Some states or jurisdictions do not allow the exclusion of implied warranties or
 
 ### Indemnity and Liability
 
-You agree to indemnify and hold The Changelog and its officers, co-branders, other partners and employees harmless from any claim or demand, including reasonable attorneys’ fees, made by any third party due to or arising out of:
+You agree to indemnify and hold The Changelog and its officers, co-branders, other partners and employees harmless from any claim or demand, including reasonable attorneys' fees, made by any third party due to or arising out of:
 
-1. your user materials and any other content (e.g. computer viruses) that you may submit, post to or transmit through The Changelog, including a third party’s use of such user materials or content (e.g. reliance on the accuracy, completeness or usefulness of your user materials);
+1. your user materials and any other content (e.g. computer viruses) that you may submit, post to or transmit through The Changelog, including a third party's use of such user materials or content (e.g. reliance on the accuracy, completeness or usefulness of your user materials);
 2. your access to or use of The Changelog (including any use by your employees, contractors or agents and all uses of your account numbers, user names and passwords, whether or not actually or expressly authorized by you, in connection with The Changelog);
 3. your connection to The Changelog;
 4. your violation of the Terms of Use;
 5. the actions of any member of your work group, including non-logged in users you have granted access to your The Changelog site;
-6. your infringement of any third party’s intellectual property rights when using any of the software made available on The Changelog;
+6. your infringement of any third party's intellectual property rights when using any of the software made available on The Changelog;
 7. your violation of any rights of any third party;
 8. your access to or use of linked sites and your connections thereto; or
 9. any dealings between you and any third parties advertising or promoting via The Changelog.
 
 ### International Users
 
-The The Changelog service can be accessed from countries around the world and may contain references to The Changelog products, services and programs that are not available in your country. These references do not imply that The Changelog intends to announce such products, services or programs in your country. The Site is controlled, operated and administered by changelog.com and its affiliates from their offices within the United States of America and Italy. The Changelog makes no representation that The Changelog service and The Changelog materials are appropriate or available for use at other locations outside the United States, and access to the Site from territories where the Site, the Services or Materials are illegal is prohibited. If you access the Site from a location outside the United States, you are responsible for compliance with all local laws.
+The Changelog service can be accessed from countries around the world and may contain references to The Changelog products, services and programs that are not available in your country. These references do not imply that The Changelog intends to announce such products, services or programs in your country. The Site is controlled, operated and administered by changelog.com and its affiliates from their offices within the United States of America and Italy. The Changelog makes no representation that The Changelog service and The Changelog materials are appropriate or available for use at other locations outside the United States, and access to the Site from territories where the Site, the Services or Materials are illegal is prohibited. If you access the Site from a location outside the United States, you are responsible for compliance with all local laws.
 
 The export and re-export of The Changelog Software are controlled by the United States Export Administration Regulations, and such Software may not be exported or re-exported to Cuba, Iran, Libya, North Korea, Sudan, Syria, or any country to which the United States embargoes goods. In addition, the Software may not be distributed to persons on the Table of Denial Orders, the Entity List, or the List of Specially Designated Nationals.
 
 By downloading Software, you are certifying that you are not a national of Cuba, Iran, Libya, North Korea, Sudan, Syria or any country to which the United States embargoes goods, and that you are not a person on the Table of Denial Orders, the Entity List, or the List of Specially Designated Nationals.
 
-All The Changelog Software, products and publications are commercial in nature. The Software and documentation available on this Site are “Commercial Items,” as that term is defined at 48 C.F.R. §2.101, consisting of “Commercial Computer Software” and “Commercial Computer Software Documentation,” as such terms are used in 48 C.F.R. §12.212 or 48 C.F.R. §227.7202, as applicable. Consistent with 48 C.F.R. §12.212 or 48 C.F.R. §§227.7202-1 through 227.7202-4, as applicable, the Commercial Computer Software and Commercial Computer Software Documentation are licensed to U.S. Government end users (A) only as Commercial Items and (B) with only those rights as are granted to all other users pursuant to the Terms of Use and the applicable license agreement.
+All The Changelog Software, products and publications are commercial in nature. The Software and documentation available on this Site are "Commercial Items," as that term is defined at 48 C.F.R. §2.101, consisting of "Commercial Computer Software" and "Commercial Computer Software Documentation," as such terms are used in 48 C.F.R. §12.212 or 48 C.F.R. §227.7202, as applicable. Consistent with 48 C.F.R. §12.212 or 48 C.F.R. §§227.7202-1 through 227.7202-4, as applicable, the Commercial Computer Software and Commercial Computer Software Documentation are licensed to U.S. Government end users (A) only as Commercial Items and (B) with only those rights as are granted to all other users pursuant to the Terms of Use and the applicable license agreement.
 
 ### Limitation of Liability
 
@@ -326,8 +270,8 @@ Some jurisdictions prohibit the exclusion or limitation of liability for consequ
 
 ## Governing Law and Jurisdiction
 
-The The Changelog service (excluding linked sites) is controlled by changelog.com from its offices within the state of Texas, United States of America. By accessing The Changelog, you agree that all matters relating to your access to, or use of, The Changelog shall be governed by the statutes and laws of the State of Washington, without regard to the conflicts of laws principles thereof. The parties specifically disclaim the U.N. Convention on Contracts for the International Sale of Goods. You also agree and hereby submit to the exclusive personal jurisdiction and venue of the Harris County Courthouse and the United States District Court for the state of Texas with respect to such matters.
+The Changelog service (excluding linked sites) is controlled by changelog.com from its offices within the state of Texas, United States of America. By accessing The Changelog, you agree that all matters relating to your access to, or use of, The Changelog shall be governed by the statutes and laws of the State of Washington, without regard to the conflicts of laws principles thereof. The parties specifically disclaim the U.N. Convention on Contracts for the International Sale of Goods. You also agree and hereby submit to the exclusive personal jurisdiction and venue of the Harris County Courthouse and the United States District Court for the state of Texas with respect to such matters.
 
 ## General
 
-The Terms of Use and other rules, guidelines, licenses and disclaimers posted via The Changelog or in connection with the Materials and Services constitute the entire agreement between The Changelog and you with respect to your access to or use of The Changelog service and materials superseding any prior agreements between you and The Changelog on such subject matter (including any prior versions of the Terms of Use). Notwithstanding the foregoing, to the extent that any terms set forth in the Terms of Use expressly contradict any terms of a written agreement between you and The Changelog regarding the use of specific Services or Materials (including Service-specific terms of use and Software-specific licenses) (“Executed Agreement”), such contradictory terms set forth in the Executed Agreement shall govern. You may also be subject to additional terms and conditions that may apply when you use other The Changelog services, third party content or third party software. You may not assign or otherwise transfer the Terms of Use nor any right granted hereunder without The Changelog’s prior written consent. If for any reason a court of competent jurisdiction finds any provision of the Terms of Use, or portion thereof, to be unenforceable, that provision shall be enforced to the maximum extent permissible so as to effect the intent of the parties as reflected by that provision, and the remainder of the Terms of Use shall continue in full force and effect. Any failure by The Changelog to enforce or exercise any provision of the Terms of Use or related right shall not constitute a waiver of that right or provision. The section titles used in the Terms of Use are purely for convenience and carry with them no legal or contractual effect.
+The Terms of Use and other rules, guidelines, licenses and disclaimers posted via The Changelog or in connection with the Materials and Services constitute the entire agreement between The Changelog and you with respect to your access to or use of The Changelog service and materials superseding any prior agreements between you and The Changelog on such subject matter (including any prior versions of the Terms of Use). Notwithstanding the foregoing, to the extent that any terms set forth in the Terms of Use expressly contradict any terms of a written agreement between you and The Changelog regarding the use of specific Services or Materials (including Service-specific terms of use and Software-specific licenses) ("Executed Agreement"), such contradictory terms set forth in the Executed Agreement shall govern. You may also be subject to additional terms and conditions that may apply when you use other The Changelog services, third party content or third party software. You may not assign or otherwise transfer the Terms of Use nor any right granted hereunder without The Changelog's prior written consent. If for any reason a court of competent jurisdiction finds any provision of the Terms of Use, or portion thereof, to be unenforceable, that provision shall be enforced to the maximum extent permissible so as to effect the intent of the parties as reflected by that provision, and the remainder of the Terms of Use shall continue in full force and effect. Any failure by The Changelog to enforce or exercise any provision of the Terms of Use or related right shall not constitute a waiver of that right or provision. The section titles used in the Terms of Use are purely for convenience and carry with them no legal or contractual effect.
