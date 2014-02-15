@@ -16,23 +16,29 @@ When you read "The Changelog" or "we" as mentioned in this document, it refers t
 
 Should you have other questions or concerns about this document, please get in touch [using our contact form](http://thechangelog.com/contact/) or [by submitting an issue on GitHub](https://github.com/thechangelog/legal/issues/new).
 
-### Using The Changelog means accepting these terms
+### About this document
 
-By accessing, using, reading, or listening to The Changelog in any way, you agree to and are bound by the terms and conditions written in this document.
+This is a living document and is [open source on GitHub](https://github.com/thechangelog/legal/blob/master/privacy.md).
 
-If you do not agree to all of the terms and conditions contained in this document, do not access The Changelog.
-
-## This is a living document
-
-This is a living document and is [open source on GitHub](https://github.com/thechangelog/legal/blob/master/terms.md).
-
-If you read something that rubs you the wrong way, or if you think of something that should be added, please [submit an issue](https://github.com/thechangelog/legal/issues/new) or [contact us](http://thechangelog.com/contact/).
+If you read something in this this document and it rubs you the wrong way, or you feel something should be added, please [submit an issue](https://github.com/thechangelog/legal/issues/new) or [contact us](http://thechangelog.com/contact/).
 
 We don't amend this document for any particular subscriber, but if your changes apply to all of our subscriber, we'll be happy to update it for everyone.
 
 We will likely improve this document over time. By continuing to use the site, you will implicitly accept the changes we make.
 
 Your access and use of The Changelog is always subject to the most current version of this document.
+
+This document was adapted from [Balsamiq](http://support.balsamiq.com/customer/portal/articles/174898).
+
+---
+
+## Terms of Service
+
+Using The Changelog means accepting these terms.
+
+By accessing, using, reading, or listening to The Changelog in any way, you agree to and are bound by the terms and conditions written in this document.
+
+If you do not agree to all of the terms and conditions contained in this document, do not access The Changelog.
 
 ## Breach of Terms
 
@@ -275,7 +281,3 @@ The Changelog service (excluding linked sites) is controlled by changelog.com fr
 ## General
 
 The Terms of Use and other rules, guidelines, licenses and disclaimers posted via The Changelog or in connection with the Materials and Services constitute the entire agreement between The Changelog and you with respect to your access to or use of The Changelog service and materials superseding any prior agreements between you and The Changelog on such subject matter (including any prior versions of the Terms of Use). Notwithstanding the foregoing, to the extent that any terms set forth in the Terms of Use expressly contradict any terms of a written agreement between you and The Changelog regarding the use of specific Services or Materials (including Service-specific terms of use and Software-specific licenses) ("Executed Agreement"), such contradictory terms set forth in the Executed Agreement shall govern. You may also be subject to additional terms and conditions that may apply when you use other The Changelog services, third party content or third party software. You may not assign or otherwise transfer the Terms of Use nor any right granted hereunder without The Changelog's prior written consent. If for any reason a court of competent jurisdiction finds any provision of the Terms of Use, or portion thereof, to be unenforceable, that provision shall be enforced to the maximum extent permissible so as to effect the intent of the parties as reflected by that provision, and the remainder of the Terms of Use shall continue in full force and effect. Any failure by The Changelog to enforce or exercise any provision of the Terms of Use or related right shall not constitute a waiver of that right or provision. The section titles used in the Terms of Use are purely for convenience and carry with them no legal or contractual effect.
-
----
-
-This Terms of Service document was adapted from [Balsamiq](http://support.balsamiq.com/customer/portal/articles/174898).
