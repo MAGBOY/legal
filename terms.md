@@ -6,7 +6,7 @@ Please read this document carefully before accessing or using The Changelog.
 
 ### English, not Legalese.
 
-Most Terms of Service and Privacy Policy documents are unreadable. They are written by and for lawyers, and in our opinion are not very effective.
+Most Terms of Service and Privacy Policy documents are unreadable. They are written by and for lawyers, and in our opinion, they are not very effective.
 
 Because we believe in establishing long-term relationships with our readers and listeners, we decided to use plain English instead, to make our terms as clear as possible.
 
